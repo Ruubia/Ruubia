@@ -9,7 +9,7 @@
 
 - ✔️ My greatest strengths are teamwork, problem-solving skills, strong communication skills, and being self-taught.
 
-- 📌 I am currently looking for my first job as a developer, where I can apply the knowledge and skills I have acquired and continue learning and improving as a programmer.
+- 📌 I am enrolled in a BootCamp for Full Stack Software Developers through 4Geeks Academy to improve my skills further.
 
 - 🗂️ I am also an Administrative professional.
 
