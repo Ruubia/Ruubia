@@ -43,19 +43,25 @@
   <img src="https://th.bing.com/th/id/R.7fab22aa36129fe121d6d45610a52b5d?rik=%2fiti6LU47Af1EQ&riu=http%3a%2f%2fwww.quickembed.com%2fTools%2fShop%2fUploadPhotos%2f2010%2flinuxlogo.gif&ehk=z14KCHVMBWJWgWtD8QcSGSzA3YvsJTBZHmHL5Yzz%2fY4%3d&risl=&pid=ImgRaw&r=0" width="200" height="200"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruubia&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 ### 👾 Github Stats...
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ruubia&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+| ![Ruubia github stats](https://github-readme-stats.vercel.app/api?username=Ruubia\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ruubia GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruubia&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
 
 ### How to reach me: 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 [linkedin](https://www.linkedin.com/in/beatrizcarmonajurado/) | b.carmonaj@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
