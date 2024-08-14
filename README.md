@@ -41,6 +41,7 @@
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253956/jest-icon-md.png" width="200" height="200"/>
   <img src="https://www.pngkit.com/png/full/519-5190290_bash-shell.png" width="200" height="200"/>
   <img src="https://th.bing.com/th/id/R.7fab22aa36129fe121d6d45610a52b5d?rik=%2fiti6LU47Af1EQ&riu=http%3a%2f%2fwww.quickembed.com%2fTools%2fShop%2fUploadPhotos%2f2010%2flinuxlogo.gif&ehk=z14KCHVMBWJWgWtD8QcSGSzA3YvsJTBZHmHL5Yzz%2fY4%3d&risl=&pid=ImgRaw&r=0" width="200" height="200"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="200" height="200"/> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
