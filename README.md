@@ -52,8 +52,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-| ![Ruubia github stats](https://github-readme-stats.vercel.app/api?username=Ruubia\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ruubia GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruubia&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruubia&show_icons=true&locale=en&layout=compact" alt="Ruubia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruubia&show_icons=true&locale=en" alt="Ruubia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruubia&" alt="Ruubia" /></p>
 
 ### How to reach me: 
 
