@@ -52,17 +52,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruubia&show_icons=true&locale=en&layout=compact" alt="Ruubia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruubia&show_icons=true&locale=en" alt="Ruubia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruubia&" alt="Ruubia" /></p>
+[linkedin](https://www.linkedin.com/in/beatrizcarmonajurado/) | b.carmonaj@gmail.com
 
 ### How to reach me: 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-[linkedin](https://www.linkedin.com/in/beatrizcarmonajurado/) | b.carmonaj@gmail.com
+<a href="https://www.linkedin.com/in/beatrizcarmonajurado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
+  <a href="" target="_blank" style="display: inline-block; vertical-align: middle;"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a> 
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
