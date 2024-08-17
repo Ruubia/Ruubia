@@ -67,11 +67,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruubia&show_icons=true&locale=en&layout=compact" alt="Ruubia" /></p>
+ [![Beatriz's github stats](https://bad-apple-github-readme.vercel.app/api?username=Ruubia&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Ruubia&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruubia&show_icons=true&locale=en" alt="Ruubia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruubia&" alt="Ruubia" /></p>
+[![Beatriz Carmona Jurado's current streak](https://streak-stats.demolab.com/?user=Ruubia&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ### How to reach me: 
 
