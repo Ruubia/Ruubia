@@ -53,4 +53,17 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_order: 
+          - "Ruubia/exercise-postcard"
+          - "Ruubia/Instagram-Photo-Feed-con-HTML-CSS"
+          - "Ruubia/Post-de-Instagram"
+          - "Ruubia/Instagram-Feed-con-Bootstrap"
+          - "Ruubia/Crea-un-formulario-con-HTML5"
+          - "Ruubia/exercise-collaborative-html-website"
+          - "Ruubia/Generador-de-excusas-en-JS"
+          - "Ruubia/Generador-de-Nombres-de-Dominios"
+          - "Ruubia/Conditional-Profile-Card-Generator"
+          - "Ruubia/Random-Card-Generator"
+          - "Ruubia/exercise-unit-test-with-jest"
+          - "Ruubia/Landing-Page-con-React"
+          - "Ruubia/Todolist-App-Using-React"
