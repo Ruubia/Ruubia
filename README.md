@@ -55,7 +55,8 @@
 <details>
   <summary>Expand</summary> 
 
-![Metrics](./github-metrics.svg)
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
 
 </details>                     
 <br>
