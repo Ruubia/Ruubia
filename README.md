@@ -88,7 +88,7 @@
 <div align="left">
   <a href="https://discord.gg/Ruubi_a" target="blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo" height="35"/></a>
-  <a href="b.carmonaj@gmail.com" target="blank">
+  <a href="https://b.carmonaj@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/beatrizcarmonajurado" target="blank">
