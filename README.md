@@ -40,7 +40,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" height="100"/>
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" height="100"/>
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253956/jest-icon-md.png" width="100" height="100"/>
-  <img src="https://www.pngkit.com/png/full/519-5190290_bash-shell.png" width="100" height="100"/>
+  <img src="https://www.pngfind.com/pngs/m/261-2614514_bash-logo-shell-script-logo-png-transparent-png.png" width="100" height="100"/>
   <img src="https://th.bing.com/th/id/R.7fab22aa36129fe121d6d45610a52b5d?rik=%2fiti6LU47Af1EQ&riu=http%3a%2f%2fwww.quickembed.com%2fTools%2fShop%2fUploadPhotos%2f2010%2flinuxlogo.gif&ehk=z14KCHVMBWJWgWtD8QcSGSzA3YvsJTBZHmHL5Yzz%2fY4%3d&risl=&pid=ImgRaw&r=0" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="100" height="100"/> 
 </p>
