@@ -55,21 +55,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ruubia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### My GitHub Metrics
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-<details>
-  <summary>Expand</summary> 
-
-![Metrics](./github-metrics.svg)
-
-
-</details>                     
-<br>
-<hr>
-
 ### 👾 Github Stats...
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
