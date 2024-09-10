@@ -3,6 +3,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ### About me
@@ -44,7 +46,14 @@
   <img src="https://th.bing.com/th/id/R.7fab22aa36129fe121d6d45610a52b5d?rik=%2fiti6LU47Af1EQ&riu=http%3a%2f%2fwww.quickembed.com%2fTools%2fShop%2fUploadPhotos%2f2010%2flinuxlogo.gif&ehk=z14KCHVMBWJWgWtD8QcSGSzA3YvsJTBZHmHL5Yzz%2fY4%3d&risl=&pid=ImgRaw&r=0" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="100" height="100"/> 
   <img src="https://logodix.com/logo/2062867.gif" width="100" height="100"/>
-  <img src="http://ts3.mm.bing.net/th?id=OIP.tZKxFU0lwHLBBNMxk53WfAHaJh&pid=15.1" width="100" height="100"/>
+  <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" width="100" height="100"/>
+  <img src="https://www.jellybellydev.it/webpack-presentation/img/webpack-logo.gif" width="100" height="100"/>
+  <img src="https://th.bing.com/th/id/OIP.TI1he4eGzGO3LYaGnMxFqAHaEK?w=291&h=180&c=7&r=0&o=5&pid=1.7" width="100" height="100"/>
+  <img src="https://th.bing.com/th/id/OIP.DkTXjCxrPaIUk6XGkCFUGQHaC8?w=324&h=139&c=7&r=0&o=5&pid=1.7" width="100" height="100"/>
+  <img src="https://th.bing.com/th/id/OIP.b_al7C5p26tbZG4sy-CWqwHaFj?w=230&h=180&c=7&r=0&o=5&pid=1.7" width="100" height="100"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" width="100" height="100"/>
+  <img src="https://th.bing.com/th/id/OIP.WdnhsdOrU5Apm2Dny9SbVAHaEK?w=315&h=180&c=7&r=0&o=5&pid=1.7"  width="100" height="100"/>
+  <img src="https://serdarkuzucu.com/assets/category/jquery.gif" width="100" height="100"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
@@ -94,5 +103,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 ![](https://komarev.com/ghpvc/?username=Ruubia)
