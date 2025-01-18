@@ -1,4 +1,3 @@
-
 [![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)](https://nikhilshukla.dev)</br>
 ### I'm Beatriz! <img align="left" alt="GIF" src="https://www.gifsanimados.org/data/media/1629/videojuego-imagen-animada-0009.gif" border="0" alt="videojuego-imagen-animada-0009"/>
 
