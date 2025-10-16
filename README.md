@@ -16,7 +16,7 @@
 
 - I am a Data Center Technician Operation passionate about technology, programming 👩🏼‍💻, and playing video games 🎮.
 
-- 🖥️ I am working as a DCO L4 at AWS in Dublin.
+- 🖥️ I am working as a DCO L4 at AWS in Zaragoza.
 
 - 📚 I love continuously learning new things and challenging myself every day.
 
